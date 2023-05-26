@@ -26,7 +26,7 @@ z-index: 99;
 }
 
 .logo{
-font-size: 30px;
+font-size: 40px;
 color: white;
 user-select: none;
 
@@ -61,7 +61,6 @@ transform: scaleX(0);
 transform-origin: right;
 transition: transform .4s;
 
-
 }
 
 .navegacao a:hover::after{
@@ -70,6 +69,7 @@ transform: scaleX(1);
 }
 
 .navegacao .btnlogin-popup{
+margin-left: 25px;
 width: 130px;
 height: 50px;
 background: transparent;
@@ -77,9 +77,17 @@ border: 2px solid white;
 outline: none;
 border-radius: 6px;
 cursor: pointer;
-font-size: 20px;
+font-size: 22px;
 color: white;
 font-weight: 500;
 margin-bottom: 40px;
+transition: .5s;
+
+}
+
+.navegacao .btnlogin-popup:hover{
+background: white;
+color: black;
+box-shadow: 1px 1px 10px black;
 
 }
