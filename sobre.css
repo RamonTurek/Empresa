@@ -1,12 +1,30 @@
-/**{
+body{
+background-image: url(6c53deb796c4f46486b998b3ac070f1c.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+*{
 margin: 0;
 padding: 0;
 box-sizing: border-box;
 
-}*/
+}
+
+header{
+color: rgba(240, 248, 255, 0);
+
+}
 
 .roblox{
-margin-right: 60%;
+margin-right: 40%;
+margin-top: 20px;
+font-weight: 5px;
 -ms-flex-align: center;
 justify-content: space-between;
+color: rgb(236, 236, 236);
+background-color: rgba(0, 0, 0, 0.692);
+border: solid 1px white;
+
 }
