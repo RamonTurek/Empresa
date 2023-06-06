@@ -1,5 +1,5 @@
 body{
-background-image: url(6c53deb796c4f46486b998b3ac070f1c.jpg);
+background-image: url(1243346.png);
 background-repeat: no-repeat;
 background-size: cover;
 
@@ -18,13 +18,19 @@ color: rgba(240, 248, 255, 0);
 }
 
 .roblox{
+margin: 10px 5px;
 margin-right: 40%;
-margin-top: 20px;
 font-weight: 5px;
 -ms-flex-align: center;
 justify-content: space-between;
-color: rgb(236, 236, 236);
+color: rgb(228, 228, 228);
 background-color: rgba(0, 0, 0, 0.692);
-border: solid 1px white;
+border: solid 1px rgba(0, 174, 255, 0.74);
 
+}
+
+.roblox:hover{
+
+
+    
 }
