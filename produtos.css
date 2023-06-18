@@ -1,15 +1,18 @@
 body{
-
-;
-background-color: rgb(4, 2, 12);
-
-
+background-color: rgb(14, 7, 43);
 
 }
 
+header{
+    background-color: black;
+padding: 30px;
+
+}
+
+
 .u{
 width: 400px;
-margin: 5% 10%;
+margin: 0% 10%;
 color: rgb(255, 255, 255);
 padding: 30px;
 /*background-color: rgba(0, 0, 0, 0.712);*/
@@ -40,5 +43,71 @@ flex-wrap: wrap;
 }
 
 .i{
-
+    width: 400px;
+    margin: 5% 10%;
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    color: rgb(255, 255, 255);
+    transition: 1s;
+    border-radius: 50px;
+    max-width: 400px;
+    max-height: 400px;
+    min-height: 300px;
+    display: block;
+    background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/cuphead-keyart-01-en-15dec21?$native$);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+
+.i:hover{
+    background-color: rgba(0, 0, 0, 0.863);
+    border: 1px solid rgb(2, 0, 104);
+    border-radius: 10px;
+    }
+
+    .o{
+        width: 400px;
+        margin: 5% 10%;
+        color: rgb(255, 255, 255);
+        padding: 30px;
+        color: rgb(255, 255, 255);
+        transition: 1s;
+        border-radius: 50px;
+        max-width: 400px;
+        max-height: 400px;
+        min-height: 300px;
+        display: block;
+        background-image: url(https://images.rbxcdn.com/076d146437ffc79cebc36bf2ded91196);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .o:hover{
+        background-color: rgba(0, 0, 0, 0.863);
+        border: 1px solid rgb(2, 0, 104);
+        border-radius: 10px;
+        }
+
+        .p{
+            width: 400px;
+            margin: 5% 10%;
+            color: rgb(255, 255, 255);
+            padding: 30px;
+            color: rgb(255, 255, 255);
+            transition: 1s;
+            border-radius: 50px;
+            max-width: 400px;
+            max-height: 400px;
+            min-height: 300px;
+            display: block;
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQuf4bxQzf5GBHT75tp1Rx7weRiYvkp_Acsg&usqp=CAU);
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+    
+        .p:hover{
+            background-color: rgba(0, 0, 0, 0.863);
+            border: 1px solid rgb(2, 0, 104);
+            border-radius: 10px;
+            }
+        
