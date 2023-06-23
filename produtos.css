@@ -11,15 +11,14 @@ padding: 30px;
 
 
 .u{
-width: 400px;
-margin: 0% 10%;
+width: 500px;
+margin: 0% 7%;
 color: rgb(255, 255, 255);
 padding: 30px;
-/*background-color: rgba(0, 0, 0, 0.712);*/
 color: rgb(255, 255, 255);
 transition: 1s;
 border-radius: 50px;
-max-width: 400px;
+max-width: 450px;
 max-height: 400px;
 min-height: 300px;
 display: block;
@@ -43,14 +42,14 @@ flex-wrap: wrap;
 }
 
 .i{
-    width: 400px;
-    margin: 5% 10%;
+    width: 500px;
+    margin: 5% 7%;
     color: rgb(255, 255, 255);
     padding: 30px;
     color: rgb(255, 255, 255);
     transition: 1s;
     border-radius: 50px;
-    max-width: 400px;
+    max-width: 450px;
     max-height: 400px;
     min-height: 300px;
     display: block;
@@ -66,19 +65,19 @@ flex-wrap: wrap;
     }
 
     .o{
-        width: 400px;
-        margin: 5% 10%;
+        width: 500px;
+        margin: 5% 7%;
         color: rgb(255, 255, 255);
         padding: 30px;
         color: rgb(255, 255, 255);
         transition: 1s;
         border-radius: 50px;
-        max-width: 400px;
+        max-width: 450px;
         max-height: 400px;
         min-height: 300px;
         display: block;
         background-image: url(https://images.rbxcdn.com/076d146437ffc79cebc36bf2ded91196);
-        background-size: cover;
+        background-size:cover;
         background-repeat: no-repeat;
     }
 
@@ -89,15 +88,15 @@ flex-wrap: wrap;
         }
 
         .p{
-            width: 400px;
-            margin: 5% 10%;
+            width: 500px;
+            margin: 5% 7%;
             color: rgb(255, 255, 255);
             padding: 30px;
             color: rgb(255, 255, 255);
             transition: 1s;
             border-radius: 50px;
-            max-width: 400px;
-            max-height: 400px;
+            max-width: 450px;
+            max-height: 700px;
             min-height: 300px;
             display: block;
             background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQuf4bxQzf5GBHT75tp1Rx7weRiYvkp_Acsg&usqp=CAU);
