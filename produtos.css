@@ -44,7 +44,7 @@ flex-wrap: wrap;
 .i{
     width: 500px;
     margin: 5% 7%;
-    color: rgb(255, 255, 255);
+    color: rgba(255, 255, 255, 0);
     padding: 30px;
     color: rgb(255, 255, 255);
     transition: 1s;
